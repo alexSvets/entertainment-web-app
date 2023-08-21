@@ -1,0 +1,9 @@
+.trending__container{
+    background-image: url("../../../images/rectangle.svg");
+    background-repeat: no-repeat;
+    min-width: 470px;
+    height: 230px;
+    display: flex;
+    flex-direction: column;
+    margin-right:40px;
+}

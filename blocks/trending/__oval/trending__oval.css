@@ -1,0 +1,11 @@
+.trending__oval {
+  display: flex;
+  align-self: flex-end;
+  background-color: #10141e;
+  border-radius: 10px;
+  width: fit-content;
+  height: 32px;
+  padding: 10px;
+  margin: 16px 24px 0 0;
+  opacity: 50%;
+}
