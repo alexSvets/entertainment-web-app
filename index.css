@@ -25,3 +25,13 @@
 @import url("./blocks/trending/__items/trending__items.css");
 @import url("./blocks/trending/__item/trending__item.css");
 @import url("./blocks/trending/__name/trending__name.css");
+
+/*recommended */
+@import url("./blocks/recommended/recommended.css");
+@import url("./blocks/recommended/__title/recommended__title.css");
+@import url("./blocks/recommended/__wrapper/recommended__wrapper.css");
+@import url("./blocks/recommended/__container/recommended__container.css");
+@import url("./blocks/recommended/__oval/recommended__oval.css");
+@import url("./blocks/recommended/__items/recommended__items.css");
+@import url("./blocks/recommended/__item/recommended__item.css");
+@import url("./blocks/recommended/__name/recommended__name.css");
