@@ -25,6 +25,10 @@
 @import url("./blocks/trending/__items/trending__items.css");
 @import url("./blocks/trending/__item/trending__item.css");
 @import url("./blocks/trending/__name/trending__name.css");
+@import url("./blocks/trending/__play/trending__play.css");
+@import url("./blocks/trending/__img/trending__img.css");
+@import url("./blocks/trending/__button/trending__button.css");
+@import url("./blocks/trending/__link/trending__link.css");
 
 /*recommended */
 @import url("./blocks/recommended/recommended.css");
@@ -35,3 +39,6 @@
 @import url("./blocks/recommended/__items/recommended__items.css");
 @import url("./blocks/recommended/__item/recommended__item.css");
 @import url("./blocks/recommended/__name/recommended__name.css");
+@import url("./blocks/recommended/__play/recommended__play.css");
+@import url("./blocks/recommended/__img/recommended__img.css");
+@import url("./blocks/recommended/__button/recommended__button.css");

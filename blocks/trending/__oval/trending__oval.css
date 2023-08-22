@@ -8,4 +8,13 @@
   padding: 10px;
   margin: 16px 24px 0 0;
   opacity: 50%;
+  z-index: 1;
+  cursor: pointer;
+}
+.trending__oval:hover > path {
+  stroke: black;
+}
+.trending__oval:hover {
+  background-color: white;
+  opacity: 100%;
 }

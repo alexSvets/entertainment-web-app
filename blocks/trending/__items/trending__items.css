@@ -1,5 +1,5 @@
-.trending__items{
-    display: flex;
-    margin-top: 100px;
-    margin-left: 15px;
+.trending__items {
+  display: flex;
+  margin-left: 15px;
+  z-index: 1;
 }

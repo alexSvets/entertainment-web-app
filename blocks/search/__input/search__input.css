@@ -5,4 +5,8 @@
   color: white;
   padding: 5px;
   width: 100%;
+  caret-color: red;
+}
+.search__input:focus {
+  border-bottom: 1px solid #5a698f;
 }

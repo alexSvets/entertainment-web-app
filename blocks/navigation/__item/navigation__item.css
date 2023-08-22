@@ -9,3 +9,7 @@
   height: 20px;
   cursor: pointer;
 }
+.navigation__item:hover > svg * {
+  fill: #fc4747;
+  transition: 0.3s;
+}
