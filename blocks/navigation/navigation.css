@@ -11,7 +11,7 @@
   width: 100%;
   height: calc(100vh - 13%);
   border-radius: 20px;
-  z-index: 1;
+  z-index: 100;
 }
 @media screen and (max-width: 1199.98px) {
   .navigation {
@@ -21,5 +21,10 @@
     top: 23px;
     left: 25px;
     justify-content: space-around;
+  }
+}
+@media screen and (max-width: 575.98px) {
+  .navigation{
+    left: 15px;
   }
 }

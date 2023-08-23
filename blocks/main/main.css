@@ -1,4 +1,14 @@
-main {
+.main {
   margin: 32px 0 0;
   padding: 0 2.5% 0 70px;
+}
+@media screen and (max-width: 991.98px) {
+  .main {
+    padding-left: 30px;
+  }
+}
+@media screen and (max-width:575.98px) {
+  .main{
+    padding-left: 15px;
+  }
 }
