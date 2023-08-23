@@ -7,6 +7,8 @@
 @import url("./blocks/navigation/__list/navigation__list.css");
 @import url("./blocks/navigation/__item/navigation__item.css");
 @import url("./blocks/navigation/__avatar/navigation__avatar.css");
+@import url("./blocks/navigation/__link/navigation__link.css");
+@import url("./blocks/navigation/__items/navigation__items.css");
 
 /* search */
 @import url("./blocks/search/search.css");

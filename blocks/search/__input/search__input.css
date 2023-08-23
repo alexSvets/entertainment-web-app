@@ -10,3 +10,8 @@
 .search__input:focus {
   border-bottom: 1px solid #5a698f;
 }
+@media screen and (max-width:  1199.98px ){
+  .search__input{
+    width: 95%;
+  }
+}

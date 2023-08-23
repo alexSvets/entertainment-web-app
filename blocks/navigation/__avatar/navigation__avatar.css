@@ -1,4 +1,9 @@
 .navigation__avatar {
-  margin-top: 200px;
+  margin-top: 325px;
   cursor: pointer;
+}
+@media screen and (max-width: 1199.98px) {
+  .navigation__avatar {
+    margin: 0;
+  }
 }
