@@ -12,3 +12,8 @@
     padding-left: 15px;
   }
 }
+@media screen and (max-width: 1600px){
+  .main{
+    padding-left: 150px
+  }
+}
