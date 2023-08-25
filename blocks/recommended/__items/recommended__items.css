@@ -1,5 +1,6 @@
 .recommended__items {
   display: flex;
   justify-content: flex-start;
+  align-items: center;
   margin: 8px auto;
 }

@@ -1,0 +1,7 @@
+.recommended__dot {
+  width: 0.2rem;
+  height: 0.2rem;
+  background-color: #979797;
+  border-radius: 50%;
+  margin-right: 8px;
+}
