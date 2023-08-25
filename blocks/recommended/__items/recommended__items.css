@@ -1,4 +1,5 @@
 .recommended__items {
   display: flex;
-  margin: 8px 5px 0 0;
+  justify-content: flex-start;
+  margin: 8px auto;
 }
