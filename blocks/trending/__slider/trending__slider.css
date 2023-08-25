@@ -1,5 +1,5 @@
-.trending__slider{
-    display: flex;
-    justify-content: space-between;
-    width: fit-content;
+.trending__slider {
+  display: flex;
+  justify-content: space-between;
+  width: fit-content;
 }

@@ -1,4 +1,4 @@
-.trending__oval {
+.trending__favorite {
   display: flex;
   align-self: flex-end;
   background-color: #10141e;
@@ -11,10 +11,10 @@
   z-index: 1;
   cursor: pointer;
 }
-.trending__oval:hover > path {
+.trending__favorite:hover > path {
   stroke: black;
 }
-.trending__oval:hover {
+.trending__favorite:hover {
   background-color: white;
   opacity: 100%;
 }

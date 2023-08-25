@@ -1,0 +1,19 @@
+.recommended__favorite {
+  display: flex;
+  align-self: flex-end;
+  background-color: #10141e;
+  border-radius: 10px;
+  width: fit-content;
+  height: 32px;
+  padding: 10px;
+  margin: 16px 24px 0 0;
+  opacity: 50%;
+  z-index: 1;
+}
+.recommended__favorite:hover > path {
+  stroke: black;
+}
+.recommended__favorite:hover {
+  background-color: white;
+  opacity: 100%;
+}

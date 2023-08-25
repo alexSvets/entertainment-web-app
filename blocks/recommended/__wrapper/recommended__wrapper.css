@@ -5,13 +5,12 @@
   gap: 20px;
 }
 @media screen and (max-width: 991.98px) {
-  .recommended__wrapper{
+  .recommended__wrapper {
     grid-template-columns: repeat(3, 1fr);
   }
 }
 @media screen and (max-width: 767.98px) {
-  .recommended__wrapper{
+  .recommended__wrapper {
     grid-template-columns: repeat(2, 1fr);
   }
-  
 }

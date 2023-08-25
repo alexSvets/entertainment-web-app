@@ -1,17 +1,17 @@
 .recommended__play {
-    border-radius: 25px;
-    background-color: rgba(151, 151, 151, 0.4);
-    width: 120px;
-    height: fit-content;
-    display: flex;
-    margin: 20px auto 20px;
-    padding: 10px;
-    opacity: 0;
-    z-index: 1;
-    cursor: pointer;
-  }
-  
-  .recommended__container:hover .recommended__play {
-    opacity: 1;
-  }
-  
+  border-radius: 25px;
+  background-color: rgba(151, 151, 151, 0.4);
+  width: 120px;
+  height: fit-content;
+  display: flex;
+  margin: 50px auto 20px;
+  padding: 10px;
+  opacity: 0;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.recommended__container:hover .recommended__play {
+  opacity: 1;
+  transition: 0.9s;
+}

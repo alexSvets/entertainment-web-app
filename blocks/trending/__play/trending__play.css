@@ -13,4 +13,5 @@
 
 .trending__container:hover .trending__play {
   opacity: 1;
+  transition: 0.9s;
 }

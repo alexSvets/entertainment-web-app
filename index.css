@@ -1,13 +1,13 @@
 @import url("./vendor/normalize.css");
-@import url("./blocks/body/body.css");
+@import url("./vendor/font/font.css");
 @import url("./blocks/page/page.css");
+@import url("./blocks/body/body.css");
 
 /* navigation style */
 @import url("./blocks/navigation/navigation.css");
 @import url("./blocks/navigation/__list/navigation__list.css");
 @import url("./blocks/navigation/__item/navigation__item.css");
 @import url("./blocks/navigation/__avatar/navigation__avatar.css");
-@import url("./blocks/navigation/__link/navigation__link.css");
 @import url("./blocks/navigation/__items/navigation__items.css");
 
 /* search */
@@ -23,21 +23,20 @@
 @import url("./blocks/trending/__title/trending__title.css");
 @import url("./blocks/trending/__slider/trending__slider.css");
 @import url("./blocks/trending/__container/trending__container.css");
-@import url("./blocks/trending/__oval/trending__oval.css");
+@import url("./blocks/trending/__favorite/trending__favorite.css");
 @import url("./blocks/trending/__items/trending__items.css");
 @import url("./blocks/trending/__item/trending__item.css");
 @import url("./blocks/trending/__name/trending__name.css");
 @import url("./blocks/trending/__play/trending__play.css");
 @import url("./blocks/trending/__img/trending__img.css");
 @import url("./blocks/trending/__button/trending__button.css");
-@import url("./blocks/trending/__link/trending__link.css");
 
 /*recommended */
 @import url("./blocks/recommended/recommended.css");
 @import url("./blocks/recommended/__title/recommended__title.css");
 @import url("./blocks/recommended/__wrapper/recommended__wrapper.css");
 @import url("./blocks/recommended/__container/recommended__container.css");
-@import url("./blocks/recommended/__oval/recommended__oval.css");
+@import url("./blocks/recommended/__favorite/recommended__favorite.css");
 @import url("./blocks/recommended/__items/recommended__items.css");
 @import url("./blocks/recommended/__item/recommended__item.css");
 @import url("./blocks/recommended/__name/recommended__name.css");

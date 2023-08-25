@@ -1,5 +1,6 @@
-.trending__item{
-    margin: 0 5px ;
-    color: rgba(159, 159, 159, 0.908);
-    font-size: 15px;
+.trending__item {
+  margin: 0 5px;
+  color: #979797;
+  font-size: 15px;
+  font-weight: 400;
 }
